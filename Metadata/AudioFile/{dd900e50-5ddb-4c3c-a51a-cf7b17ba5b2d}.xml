@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{dd900e50-5ddb-4c3c-a51a-cf7b17ba5b2d}">
+		<property name="assetPath">
+			<value>stone_door_open1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5576875000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c3727df7-758a-4511-b996-453783870678}</destination>
+		</relationship>
+	</object>
+</objects>

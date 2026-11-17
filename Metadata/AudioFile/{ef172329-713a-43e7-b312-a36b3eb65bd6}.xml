@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ef172329-713a-43e7-b312-a36b3eb65bd6}">
+		<property name="assetPath">
+			<value>hit_with_stone_rubble.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.1538541666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c3727df7-758a-4511-b996-453783870678}</destination>
+		</relationship>
+	</object>
+</objects>
